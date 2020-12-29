@@ -1,4 +1,4 @@
-<h2 align="center">Python Course - Learn Python &nbsp;:heart:&nbsp;</h2>
+<h2 align="center"Right Click Menu Popups &nbsp;:heart:&nbsp;</h2>
 
 <p align="center">
   
